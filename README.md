@@ -2,7 +2,7 @@
 
 ## About
 
-This is a project to construct an efficient multi-layer kernel machine with Monte Carlo methods, using kernel approximation methods.
+This is a project to construct an efficient multi-layer kernel machine with Monte Carlo methods, using kernel approximation methods. Besides, we add some tricks such as residual learning and data splitting.
 
 ## Data
 
@@ -19,4 +19,6 @@ The dataset is from https://archive.ics.uci.edu/ml/datasets/YearPredictionMSD
 [2] Thierry Bertin-Mahieux, Daniel P.W. Ellis, Brian Whitman, and Paul Lamere. The Million Song Dataset. In Proceedings of the 12th International Society
 for Music Information Retrieval Conference (ISMIR 2011), 2011.
 
-[3] Tianshu Huang, Nimit Kalra. "Fast Random Kernelized Features" [https://github.com/qw3rtman/random-feature-maps].
+[3] Ali Rahimi and Benjamin Recht. "Random Features for Large-Scale Kernel Machines." Advances in Neural Information Processing Systems. 2008.
+
+[4] Tianshu Huang, Nimit Kalra. "Fast Random Kernelized Features" [https://github.com/qw3rtman/random-feature-maps].
