@@ -6,10 +6,9 @@ This is a project to construct an efficient multi-layer kernel machine with Mont
 
 ## Data
 
-To complete our experiments, we use the YearPredictionMSD Data Set in which there are 463,715 train examples and 51,630 test examples. 
-In each example, there are 90 attributes, and an outcome value: the year, ranging from 1922 to 2011.
+To complete our experiments:
 
-The dataset is from https://archive.ics.uci.edu/ml/datasets/YearPredictionMSD
+We use: (1) YearPredictionMSD Data Set (regression), in which there are 463,715 train examples and 51,630 test examples. In each example, there are 90 attributes, and an outcome value: the year, ranging from 1922 to 2011. (2) Dry Bean Data set (classification), in which there are 13611 instances and 16 attributes. There are 7 classes of plants (BARBUNYA	BOMBAY	CALI	DERMASON	HOROZ	SEKER	SIRA). (3) OptDigits Data Set (classification), in which there are 3823 train examples and 1797  test examples. In each example, there are 64 = 8 x 8 attributes. (4) California Housing Data set (regression), in which there are 20640 instances and 8 attributes.
 
 
 ## Reference
